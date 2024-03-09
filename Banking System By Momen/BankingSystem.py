@@ -3,10 +3,10 @@
 # Hangman game by Momen Shili.
 
 
-customerNames = ['Momen Shili', 'Omar Ibn Abi Rabia', 'Jamil ben m3amr', 'Test Test', 'test2 test2']
-customerPins = ['0123', '2575', '7275', '2312', '5049']
-customerBalances = [10000, 20000, 20000, 40000, 10000]
-deposition = 0
+customerNames = ['اسماعیل شهبازی قنبرلو']
+customerPins = ['1234']
+customerBalances = [10000, ]
+deposition = 980000000000000
 withdrawal = 0
 balance = 0
 counter_1 = 1
